@@ -12,4 +12,4 @@ Nosotros nos encargamos de conseguir personas para resolverlo.
 
 Asi que bienvenid@s tod@s.
 
-![alt tag](https://github.com/arduinoguate/ArduChallenge/blob/master/Logo%20Arduino%20Guatemala.png)
+![alt tag](https://github.com/spalmadroid/ArduChallenge/blob/master/Logo%20Arduino%20Guatemala.png)
