@@ -12,7 +12,7 @@ Nosotros nos encargamos de conseguir personas para resolverlo.
 
 Asi que bienvenid@s tod@s.
 
-[Logo Arduino Guatemala](https://github.com/spalmadroid/ArduChallenge/blob/master/Logo%20Arduino%20Guatemala.png)
+![Logo Arduino Guatemala](https://github.com/spalmadroid/ArduChallenge/blob/master/Logo%20Arduino%20Guatemala.png)
 
 ## Contacto
 ------------
