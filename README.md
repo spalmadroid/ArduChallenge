@@ -16,4 +16,4 @@ Asi que bienvenid@s tod@s.
 
 ## Contacto
 ------------
-![Facebook Comunidad Arduino Guatemala](https://www.facebook.com/ArduinoGuatemala/)
+- [Facebook Comunidad Arduino Guatemala](https://www.facebook.com/ArduinoGuatemala/)
