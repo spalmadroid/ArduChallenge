@@ -30,7 +30,7 @@ Asi que bienvenid@s tod@s.
 ## Contacto
 
 - [Facebook Comunidad Arduino Guatemala](https://www.facebook.com/ArduinoGuatemala/)
-![Logo Arduino Guatemala](https://github.com/spalmadroid/ArduChallenge/blob/master/Logo%20Arduino%20Guatemala.png)
+![Logo Arduino Guatemala](https://github.com/arduinoguate/ArduChallenge/blob/master/Logo%20Arduino%20Guatemala.png)
 
 ## Licencia
 
