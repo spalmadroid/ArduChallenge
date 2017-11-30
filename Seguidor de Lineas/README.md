@@ -1,8 +1,7 @@
-# Seguidor de Líneas 
+# Seguidor de Líneas
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Arduino Guatemala](https://img.shields.io/badge/Arduino-Guatemala-blue.svg)](https://www.facebook.com/ArduinoGuatemala)
----
 
 ## Descripción
 
