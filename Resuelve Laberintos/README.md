@@ -33,6 +33,13 @@ Usualmente los Robot Resuelve Laberintos, trabajan de 2 maneras:
 **NOTA:**
 Los materiales utilizados en este tutorial pueden variar. Cualquier cambio realizado, tanto en tamaño, motores utilizados, tipos de placas o materiales a utilizar, pueden modificar el código proporcionado.
 
+## Funcionamiento
+
+### ¿Cuáles son los pasos que debe Ejecutar el  Robot Resuelve Laberintos?
+
+Básicamente existen 2: 
+* El primero es realizar un recorrido por el laberinto y encontrar la meta. 
+* El segundo es optimizar el camino, para que el robot pueda realizar el recorrido más corto del laberinto sin equivocarse.
 
 ## Licencia
 
