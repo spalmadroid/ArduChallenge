@@ -64,7 +64,7 @@ Una intersección dentro del laberinto, es cualquier punto en donde tenga la opo
 
 Ahora se aplicará lo aprendido hasta el momento en un simple laberinto, así se podrá observar el comportamiento de nuestro robot, con las siguiente imágenes, aplicando el algoritmo **Left Hand on the Wall**. El círculo rojo seria el robot:
 
-
+![Laberinto](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/laberinto.png)
 
 ***
 
