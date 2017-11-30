@@ -25,6 +25,8 @@ Asi que bienvenid@s tod@s.
 - Luis Olivet
 - Karla L. Hdz
 
+### #NuncaDejenDeCrear
+
 ## Contacto
 
 - [Facebook Comunidad Arduino Guatemala](https://www.facebook.com/ArduinoGuatemala/)
