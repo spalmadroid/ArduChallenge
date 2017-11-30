@@ -67,7 +67,7 @@ Ahora se aplicará lo aprendido hasta el momento en un simple laberinto, así se
 ![Laberinto](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/laberinto.png)
 ![Resolución Laberinto](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/resolucion%20laberinto.png)
 
-Como se puede observar dentro del laberinto, vemos el recorrido que el robot va a realizar, tomando en cuenta siempre el algoritmo **Left Hand on the Wall**. El reconocimiento de la trayectoria se almacena en un Array, el cual reconoce las letras LRBS como instrucciones que debe realizar. En este caso tenemos lo siguiente: (de izquierda a derecha y hacia abajo)
+Como se puede observar dentro del laberinto, vemos el recorrido que el robot va a realizar, tomando en cuenta siempre el algoritmo **Left Hand on the Wall**. El reconocimiento de la trayectoria se almacena en un Array, el cual reconoce las letras LRBS como instrucciones que debe realizar. En este caso se tiene lo siguiente: (de izquierda a derecha y hacia abajo)
 
 Recorrido = LBLLBSR
 
