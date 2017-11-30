@@ -35,11 +35,38 @@ Los materiales utilizados en este tutorial pueden variar. Cualquier cambio reali
 
 ## Funcionamiento
 
-### ¿Cuáles son los pasos que debe Ejecutar el  Robot Resuelve Laberintos?
+### ¿Cuáles son los pasos que debe ejecutar el Robot Resuelve Laberintos?
 
 Básicamente existen 2: 
 * El primero es realizar un recorrido por el laberinto y encontrar la meta. 
 * El segundo es optimizar el camino, para que el robot pueda realizar el recorrido más corto del laberinto sin equivocarse.
+
+***
+
+### ¿Cómo es que el Robot Resuelve Laberintos encuentra la meta del laberinto?
+
+Se utiliza la técnica llamada **"Left Hand on the Wall"** (Mano izquierda en el muro). Imaginemos que nosotros estamos dentro de un laberinto y que mantenemos nuestra mano siempre tocando la pared izquierda todo el tiempo. Haciendo esto, nosotros vamos a lograr recorrerlo sin necesidad de repetir un camino fallido y convertir la salida del laberinto en un ciclo interminable, ni regresando a donde empezamos.
+
+ Este es el Algoritmo utilizando la técnica **Left Hand on the Wall**, simplificado en simples condiciones:
+
+-	Si se puede girar hacia la izquierda, entonces se gira hacia la izquierda.
+-	Si se puede avanzar hacia adelante, entonces se avanza hacia adelante.
+-	Si no se puede girar hacia la izquierda, pero se puede girar hacia la derecha, entonces se gira hacia la derecha.
+-	Si no se puede girar hacia la izquierda, y tampoco se puede girar hacia la derecha, significa que se ha llegado a un camino muerto, por lo tanto, se debe dar un giro de 180° y se sigue intentando.
+
+El robot debe realizar esas decisiones dentro del algoritmo, cuando se encuentra con una intersección. 
+Una intersección dentro del laberinto, es cualquier punto en donde tenga la oportunidad de girar. Si el robot tiene la oportunidad de cruzar, pero este sigue avanzando, esto se considera como que siguió hacia adelante, cada movimiento en una intersección, o cuando gira, será almacenado en la memoria del ROBOT (EEPROM del ARDUINO).
+
+-	L = Girar hacia la izquierda (Turn Left).
+-	R = Girar hacia la derecha (Turn Right).
+-	S = Avanzar hacia delante (Going Straight).
+-	B = Realizar un Giro de 180° (Turning Around).
+
+Ahora se aplicará lo aprendido hasta el momento en un simple laberinto, así se podrá observar el comportamiento de nuestro robot, con las siguiente imágenes, aplicando el algoritmo **Left Hand on the Wall**. El círculo rojo seria el robot:
+
+
+
+***
 
 ## Licencia
 
