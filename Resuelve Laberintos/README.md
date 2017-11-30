@@ -12,6 +12,8 @@ Usualmente los Robot Resuelve Laberintos, trabajan de 2 maneras:
 * Por medio de sensores infrarrojos (su trabajo es detectar una línea Blanca o Negra en el Suelo y guiar su recorrido)  
 * Por medio de sensores ultrasónicos (estos detectan obstáculos durante un trayecto, permitiendo reconocer hacia donde deben guiar su     recorrido)
 
+![Resuelve Laberintos](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/robot.png)
+
 ## Licencia
 
 ArduChallenge es un proyecto de código abierto con [Licencia MIT](https://opensource.org/licenses/MIT).
