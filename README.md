@@ -2,7 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Arduino Guatemala](https://img.shields.io/badge/Arduino-Guatemala-blue.svg)](https://www.facebook.com/ArduinoGuatemala)
+
 ---
+
 El ArduChallenge consiste en una serie de retos tecnológicos y servirá como guía para competencias abiertas de electrónica y robótica.
 
 Lo que la Comunidad Arduino Guatemala quiere junto con todos sus aliados es generar concursos o competencias que demuestren el uso inteligente de la tecnología para resolver problemas. 
