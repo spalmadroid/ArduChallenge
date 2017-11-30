@@ -73,6 +73,14 @@ Recorrido = LBLLBSR
 
 ***
 
+### Analizando la Optimización del Recorrido
+
+Como se pudo observar en la primera parte, el recorrido queda guardado de la siguiente manera **LBLLBSR**, pero ¿cómo hace el robot para acortar el camino y resolverlo de una manera directa?, veamos a continuación la siguiente serie de imágenes de lo que debe hacer el robot para acortar el recorrido:
+
+
+
+***
+
 ## Licencia
 
 ArduChallenge es un proyecto de código abierto con [Licencia MIT](https://opensource.org/licenses/MIT).
