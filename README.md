@@ -15,6 +15,16 @@ Nosotros nos encargamos de conseguir personas para resolverlo.
 
 Asi que bienvenid@s tod@s.
 
+## Voluntarios
+
+### Gracias a todos, estaremos actualizando conforme se vayan sumando
+
+- Yeffri J. Salazar
+- Samuel Palma
+- Sebastian Juarez
+- Luis Olivet
+- Karla L. Hdz
+
 ## Contacto
 
 - [Facebook Comunidad Arduino Guatemala](https://www.facebook.com/ArduinoGuatemala/)
