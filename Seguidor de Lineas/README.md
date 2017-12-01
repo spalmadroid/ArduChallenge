@@ -11,7 +11,7 @@
 El Seguidor de Línea es un robot autónomo que cumple una única misión: seguir una línea marcada, normalmente negra sobre una superficie blanca o una línea blanca sobre una superficie negra. El robot debe ser capaz de detectar una línea particular y seguirla.
 Seran 3 vueltas completas por participante
 
----- ->![](Carro1.jpg)
+![Diseño Carro](Multimedia/Carro1.jpg)
 
 ## Reglamento
 
@@ -28,7 +28,8 @@ y cualquier tipo de material disponible.
 ## Posibles pistas
 La pista sera una manta vinilica con la pista impresa en tonner, el tamaño es de 1x2 mts cuadrados. 
 tendran tiempo para poder probar sus seguidores de lineas antes de la competencia.
---------   -----------  --------->![](pista.JPG)
+
+![Posible Pista](Multimedia/pista.JPG)
 
 ## Licencia
 
