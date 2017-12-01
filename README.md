@@ -24,14 +24,14 @@ Asi que bienvenid@s tod@s.
 - Samuel Palma
 - Sebastian Juarez
 - Luis Olivet
-- Karla L. Hdz
+- [Karla L Hdz](https://github.com/karlalhdz "Karla L Hdz")
 
 ### #NuncaDejenDeCrear
 
 ## Contacto
 
 - [Facebook Comunidad Arduino Guatemala](https://www.facebook.com/ArduinoGuatemala/)
-![Logo Arduino Guatemala](https://github.com/arduinoguate/ArduChallenge/blob/master/Logo%20Arduino%20Guatemala.png)
+![Logo Arduino Guatemala](https://github.com/karlalhdz/ArduChallenge/blob/master/Publicidad/Logo%20Arduino%20Guatemala.png)
 
 ## Licencia
 
