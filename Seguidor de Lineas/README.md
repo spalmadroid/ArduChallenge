@@ -1,4 +1,3 @@
-
 # Seguidor de Líneas
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -17,7 +16,8 @@ Seran 3 vueltas completas por participante
 - Las medidas máximas son de 20x20 cm (sin límite de altura) --> carro.
 - El que complete la pista en el menor tiempo es el ganador.
 - El seguidor de lineas no debera de deteriorar por ninguna razón la pista, en cuyo caso sera descalificado.
-                          ![](Carro1.jpg)
+ 
+  -- ---- ->![](Carro1.jpg)
 
 ## Materiales
 
