@@ -27,7 +27,7 @@ y cualquier tipo de material disponible.
 ## Posibles pistas
 La pista sera una manta vinilica con la pista impresa en tonner, el tamaño es de 3x2 mts cuadrados. 
 tendran tiempo para poder probar sus seguidores de lineas antes de la competencia.
-![](Pistas1.JPG)
+![](Pistas1.jpg)
 
 ---------
                                                   Nunca Dejen de Crear <3
