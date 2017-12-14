@@ -1,5 +1,7 @@
 # Resuelve Laberintos
 
+![Portada Resuelve Laberintos](https://github.com/arduinoguate/ArduChallenge/blob/master/Publicidad/PortadaEventoResuelveLaberinto_Facebook.png)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Arduino Guatemala](https://img.shields.io/badge/Arduino-Guatemala-blue.svg)](https://www.facebook.com/ArduinoGuatemala)
 
@@ -12,7 +14,7 @@ Usualmente los Robot Resuelve Laberintos, trabajan de 2 maneras:
 * Por medio de sensores infrarrojos (su trabajo es detectar una línea Blanca o Negra en el Suelo y guiar su recorrido)  
 * Por medio de sensores ultrasónicos (estos detectan obstáculos durante un trayecto, permitiendo reconocer hacia donde deben guiar su     recorrido)
 
-![Resuelve Laberintos](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/robot.png)
+![Resuelve Laberintos](https://github.com/arduinoguate/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/robot.png)
 
 ## Materiales
 
@@ -64,8 +66,8 @@ Una intersección dentro del laberinto, es cualquier punto en donde tenga la opo
 
 Ahora se aplicará lo aprendido hasta el momento en un simple laberinto, así se podrá observar el comportamiento de nuestro robot, con las siguiente imágenes, aplicando el algoritmo **Left Hand on the Wall**. El círculo rojo seria el robot:
 
-![Laberinto](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/laberinto.png)
-![Resolución Laberinto](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/resolucion%20laberinto.png)
+![Laberinto](https://github.com/arduinoguate/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/laberinto.png)
+![Resolución Laberinto](https://github.com/arduinoguate/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/resolucion%20laberinto.png)
 
 Como se puede observar dentro del laberinto, vemos el recorrido que el robot va a realizar, tomando en cuenta siempre el algoritmo **Left Hand on the Wall**. El reconocimiento de la trayectoria se almacena en un Array, el cual reconoce las letras LRBS como instrucciones que debe realizar. En este caso se tiene lo siguiente: (de izquierda a derecha y hacia abajo)
 
@@ -77,7 +79,7 @@ Como se puede observar dentro del laberinto, vemos el recorrido que el robot va 
 
 Como se pudo observar en la primera parte, el recorrido queda guardado de la siguiente manera **LBLLBSR**, pero ¿cómo hace el robot para acortar el camino y resolverlo de una manera directa?, veamos a continuación la siguiente serie de imágenes de lo que debe hacer el robot para acortar el recorrido:
 
-![Optimización Laberinto](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/optimizacion%20laberinto.png)
+![Optimización Laberinto](https://github.com/arduinoguate/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/optimizacion%20laberinto.png)
 
 Observando las imágenes anteriores nos damos cuenta que tiene una trayectoria reducida, esto lo hace de la siguiente manera:
 
@@ -91,7 +93,7 @@ Una “B” indica que el robot realiza un giro de 180°, lo cual significa que 
 
 ### Optimizando el Recorrido
 
-![Optimizando Laberinto](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/optimizando%20laberinto.png)
+![Optimizando Laberinto](https://github.com/arduinoguate/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/optimizando%20laberinto.png)
 
 Veamos los primeros 3 movimientos del recorrido LBLLBSR, estos movimientos son LBL, como se observa en la imágen anterior. En vez de que el robot gire hacia la izquierda, de un giro de 180° y vuelva a girar hacia la izquierda, necesitamos que vaya hacia adelante. Así que podemos decir que LBL = S.
 Esto es lo que el robot utiliza para optimizar el recorrido. 
@@ -124,7 +126,7 @@ Se necesita saber al menos 3 movimientos para que el algoritmo funcione y optimi
 
 ### Ejemplo de Resolución de un Laberinto
 
-![Ejemplo Laberinto](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/ejemplo%20laberinto.png
+![Ejemplo Laberinto](https://github.com/arduinoguate/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/ejemplo%20laberinto.png
 )
 
 Analizaremos otro Ejemplo:
@@ -166,31 +168,31 @@ Por lo que para resolverlo, el robot únicamente tiene que girar a la Derecha pa
 
 ## Diseño Estructura
 
-![Diagrama Diseño](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/diagrama%20dise%C3%B1o.png)
-![Diseño Final](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/dise%C3%B1o%20final.png)
+![Diagrama Diseño](https://github.com/arduinoguate/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/diagrama%20dise%C3%B1o.png)
+![Diseño Final](https://github.com/arduinoguate/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/dise%C3%B1o%20final.png)
 
 ## Motores
 
-![Motores Vista Perfil](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/motores%20perfil.png)
-![Motores Vista Superior](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/motores%20superior.png)
+![Motores Vista Perfil](https://github.com/arduinoguate/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/motores%20perfil.png)
+![Motores Vista Superior](https://github.com/arduinoguate/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/motores%20superior.png)
 
 ## Sensores
 
 Utilizamos el Sensor QTR 8A POLOLU. Recortándolo a solo 6 sensores, como se muestra en las imágenes.
 
-![Sensor Vista](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/sensor%20vista.png)
-![Sensor Pines](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/pines%20sensor.png)
+![Sensor Vista](https://github.com/arduinoguate/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/sensor%20vista.png)
+![Sensor Pines](https://github.com/arduinoguate/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/pines%20sensor.png)
 
 ## Montando Componentes al Case
 
 Debe de tener un aproximado de 5mm de altura del suelo
 
-![Montaje 1](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/montaje1.png)
-![Montaje 2](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/montaje2.png)
+![Montaje 1](https://github.com/arduinoguate/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/montaje1.png)
+![Montaje 2](https://github.com/arduinoguate/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/montaje2.png)
 
 ## Circuito
 
-![Circuito](https://github.com/spalmadroid/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/circuito.png)
+![Circuito](https://github.com/arduinoguate/ArduChallenge/blob/master/Resuelve%20Laberintos/Multimedia/circuito.png)
 
 ## Código
 

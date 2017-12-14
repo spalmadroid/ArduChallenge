@@ -1,5 +1,5 @@
 # Arduchallenge 
-![PortadaEventoPrincipal_Facebook](https://github.com/karlalhdz/ArduChallenge/blob/master/Publicidad/PortadaEventoPrincipal_Facebook.png)
+![PortadaEventoPrincipal_Facebook](https://github.com/arduinoguate/ArduChallenge/blob/master/Publicidad/PortadaEventoPrincipal_Facebook.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Arduino Guatemala](https://img.shields.io/badge/Arduino-Guatemala-blue.svg)](https://www.facebook.com/ArduinoGuatemala)
@@ -20,11 +20,11 @@ Asi que bienvenid@s tod@s.
 
 ### Gracias a todos, estaremos actualizando conforme se vayan sumando
 
-- Yeffri J. Salazar
-- Samuel Palma
+- [Yeffri J. Salazar](https://github.com/yeffrimic)
+- [Samuel Palma](https://github.com/spalmadroid)
 - Sebastian Juarez
 - Luis Olivet
-- [Karla L Hdz](https://github.com/karlalhdz "Karla L Hdz")
+- [Karla L Hdz](https://github.com/karlalhdz)
 
 ### #NuncaDejenDeCrear
 
