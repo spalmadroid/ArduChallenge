@@ -39,6 +39,10 @@ tendran tiempo para poder probar sus seguidores de lineas antes de la competenci
 
 - --  --  ---   - -![](Pistas1.jpg)
 
+Además el grosor de la linea, posee las siguiente dimensión:  
+
+--- --- - - -- - --![](Multimedia/Linea.jpg)
+
 ---------
                                                   Nunca Dejen de Crear <3
 --------
